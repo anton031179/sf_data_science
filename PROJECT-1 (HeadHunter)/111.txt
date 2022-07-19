@@ -1,0 +1,4 @@
+"G:\Мой диск\dst-3.0_16_1_hh_database.csv"
+"G:\Мой диск\dst-3.0_16_1_hh_database.csv"
+https://drive.google.com/file/d/1hyCyjoPNo6PMONm080YNVvHvbxtfgAXM/view?usp=sharing
+https://github.com/DmitriySky47/sf_data_science/blob/main/project_1/Project_1_Анализ_вакансий_HH.ipynb

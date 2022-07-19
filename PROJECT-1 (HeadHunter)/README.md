@@ -1,7 +1,7 @@
 # Проект 1. HeadHunter 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Описание-проскта)  
+[1. Описание проекта](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Краткая-ииформация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Этапы-работы-над-проектом)  

@@ -1,11 +1,11 @@
 # Проект 1. HeadHunter 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/anton031179/sf_data_science/tree/main/IDE/project_P8/README.md#Описание-проскта)  
-[2. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/tree/main/IDE/project_P8/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/anton031179/sf_data_science/tree/main/IDE/project_P8/README.md#Краткая-ииформация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/tree/main/IDE/project_P8/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/anton031179/sf_data_science/tree/main/IDE/project_P8/README.md#Peзультат)   
+[1. Описание проекта](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Описание-проскта)  
+[2. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Краткая-ииформация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-1%20(HeadHunter)/README.md#Peзультат)   
 
 # Описание проекта 
 Финальное задание к Блоку 1 (PROJECT-1. Анализ вакансий из HeadHunter).  
@@ -22,6 +22,7 @@
 **Источник данных:** 
 Рассматриваемые данные представляют из себя базу резюме, выгруженную с сайта поиска вакансий hh.ru
 ссылка на файл с данными: https://drive.google.com/file/d/1hyCyjoPNo6PMONm080YNVvHvbxtfgAXM/view?usp=sharing
+ссылка на графики plotly в фрмате html: https://drive.google.com/drive/folders/1rCjBjblWwVwMcdNP7v44qTUPpVV3ljjq?usp=sharing
 
 **Структура данных:** 
 База в формате 'csv' содерит 44744 резюме (записей) и 12 признаков (столбцов).

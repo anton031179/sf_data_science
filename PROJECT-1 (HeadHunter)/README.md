@@ -21,7 +21,7 @@
 ## Краткая информация о данных
 **Источник данных:** 
 Рассматриваемые данные представляют из себя базу резюме, выгруженную с сайта поиска вакансий hh.ru
-ссылка на файл с данными: https://drive.google.com/file/d/1hyCyjoPNo6PMONm080YNVvHvbxtfgAXM/view?usp=sharing
+ссылка на файл с данными: https://drive.google.com/file/d/1hyCyjoPNo6PMONm080YNVvHvbxtfgAXM/view?usp=sharing  
 ссылка на графики plotly в формате html: https://drive.google.com/drive/folders/1rCjBjblWwVwMcdNP7v44qTUPpVV3ljjq?usp=sharing
 
 **Структура данных:** 

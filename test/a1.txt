@@ -1,0 +1,26 @@
+import pandas as pd
+
+bronze_path = './Root/data/bronze_top.csv'
+silver_path = './Root/data/silver_top.csv'
+"""
+Объедините две таблицы по странам таким образом, чтобы в результат вошли данные только о тех странах, которые есть в обоих рейтингах. 
+При этом в качестве суффиксов для столбца c числом медалей укажите строки "_bronze" и "_silver", чтобы столбцы можно было различать.
+Результат занесите в переменную merged.
+"""
+data2= pd.read_csv(bronze_path, sep=',')
+data1= pd.read_csv(silver_path, sep=',')
+
+merged = data1.merge(
+data2,
+on='Country',
+how='inner',
+suffixes=('_silver', '_bronze')
+)
+print (merged.tail())
+
+
+
+
+
+
+

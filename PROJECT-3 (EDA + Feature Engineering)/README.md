@@ -1,10 +1,10 @@
 # Проект 3. Booking 
 
 ## Оглавление
-[1. Какой кейс решаем?](https://www.kaggle.com/code/shoopyat/eda-project-3-shoopyat/README.md#какой-кейс-решаем)  
-[2. Краткая информация о данных](https://www.kaggle.com/code/shoopyat/eda-project-3-shoopyat/README.md#краткая-информация-о-данных)  
-[3. Этапы работы над проектом](https://www.kaggle.com/code/shoopyat/eda-project-3-shoopyat/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://www.kaggle.com/code/shoopyat/eda-project-3-shoopyat/README.md#результат)   
+[1. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#какой-кейс-решаем)  
+[2. Краткая информация о данных](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#результат)   
 
 # Описание проекта 
 Финальное задание к Блоку 3 (PROJECT-3 (EDA + Feature Engineering)).  
@@ -22,9 +22,9 @@
 
 **Источник данных:** 
 Рассматриваемые данные представляют из себя датасет, в котором содержатся сведения о 515 000 отзывов на отели Европы
-ссылка на файл с учебным датасетом: ../input/sf-booking/hotels_train.csv
-ссылка на файл данных с тестовым датасетом: ../input/sf-booking/hotels_test.csv
-ссылка на файл данных submission: ../input/sf-booking/submission.csv
+ссылка на файл с учебным датасетом: https://drive.google.com/file/d/13T7PoM7SkXnoAl81X9A7weubXwaV1mxR/view?usp=share_link
+ссылка на файл данных с тестовым датасетом: https://drive.google.com/file/d/1r38vGg8lCyr2w09lue8rOi30jemwDWJ9/view?usp=share_link
+ссылка на файл данных submission: https://drive.google.com/file/d/1GKFuxpsPuH4UQKwU3jpPqyIp80Eoxjr5/view?usp=share_link
 
 **Структура данных:** 
 Объединенный исходный датасет в формате 'csv' содерит 515738 отзывов (записей) и 18 признаков (столбцов).

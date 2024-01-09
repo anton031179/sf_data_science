@@ -1,10 +1,10 @@
 # Финальный проект. Бриф 1. Агентство недвижимости
 
 ## Оглавление
-[1. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#какой-кейс-решаем)  
-[2. Краткая информация о данных](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#краткая-информация-о-данных)  
-[3. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/anton031179/sf_data_science/blob/main/PROJECT-3%20(EDA%20%2B%20Feature%20Engineering)/README.md#результат)   
+[1. Какой кейс решаем?](https://github.com/anton031179/sf_data_science/blob/main/FINAL/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)/README.md#какой-кейс-решаем)  
+[2. Краткая информация о данных](https://github.com/anton031179/sf_data_science/blob/main/FINAL/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)/README.md#краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/anton031179/sf_data_science/blob/main/FINAL/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/anton031179/sf_data_science/blob/main/FINAL/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)/README.md#результат)  
 
 # Описание проекта 
 Бриф 1. Агентство недвижимости.  

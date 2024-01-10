@@ -25,20 +25,13 @@
 
 **Источник данных:** 
 Рассматриваемые данные представляют из себя датасет, в котором содержатся сведения о 377 184 записях предложений агенств недвижимости.  
-<<<<<<< HEAD
-ссылка на файл с исходным датасетом: https://drive.google.com/file/d/1utLpc74KcmTej5cp5-B7KmqJs4Lijx0K/view?usp=drive_link  
+ссылка на файл с исходным датасетом: https://drive.google.com/file/d/1utLpc74KcmTej5cp5-B7KmqJs4Lijx0K/view?usp=sharing  
 ссылка на файл данных с валидационным датасетом: https://drive.google.com/file/d/1hwlDqNu3v3uUP6ZOTCdO2EOu3qtMBDDJ/view?usp=drive_link  
 ссылка на сохраненный файл модели:https://drive.google.com/file/d/1jSqMTF4qU3Ii9qB6tBH9iodA9eFCwL3O/view?usp=drive_link  
-ссылка на контейнер Docker: https://hub.docker.com/repository/docker/antonsuhoplyuev23/rea_image  
-ссылка на файл серверного приожения: https://drive.google.com/file/d/1tM-GPNOa6FYR9QpjXhKy748qVjl4dtus/view?usp=drive_link  
-ссылка на файл клиентского приожения: https://drive.google.com/file/d/1YUHWmJd3KmWYHd5gZQCCYI9xaHqQdBCr/view?usp=drive_link  
-
-=======
-ссылка на файл с исходным датасетом: https://drive.google.com/file/d/1utLpc74KcmTej5cp5-B7KmqJs4Lijx0K/view?usp=drive_link
-ссылка на файл данных с валидационным датасетом: https://drive.google.com/file/d/1hwlDqNu3v3uUP6ZOTCdO2EOu3qtMBDDJ/view?usp=drive_link
-ссылка на сохраненный файл модели:https://drive.google.com/file/d/1okErKJOsTbojRSD0QQu_zK3xDWlI21Jl/view?usp=drive_link
-ссылка на контейнер Docker: 
->>>>>>> 4a2f642b0f247c1db5f3e700b1cfcf9ae50bf805
+ссылка на контейнер Docker: https://hub.docker.com/r/antonsuhoplyuev23/rea_image  
+команда на скачивание образа: docker pull antonsuhoplyuev23/rea_image:latest   
+ссылка на файл серверного приложения: https://drive.google.com/file/d/1tM-GPNOa6FYR9QpjXhKy748qVjl4dtus/view?usp=drive_link  
+ссылка на файл клиентского приложения: https://drive.google.com/file/d/1YUHWmJd3KmWYHd5gZQCCYI9xaHqQdBCr/view?usp=sharing  
 
 **Структура данных:** 
 Объединенный исходный датасет в формате 'csv' содерит 377184 записи и 18 признаков (столбцов).
